@@ -2,7 +2,7 @@
 
 **Software Developer | Machine Learning Engineer | Hardware Engineer**
 
-Detail-oriented  ** Computer Science graduate **and  ** Data Analyst ** with hands-on experience in transforming complex datasets into actionable insights that support data-driven decision-making.
+Detail-oriented   Computer Science graduate and Data Analyst  with hands-on experience in transforming complex datasets into actionable insights that support data-driven decision-making.
 Strong foundation in data cleaning, exploratory data analysis, data visualization, and statistical modeling using Python and SQL
 . Experienced in building predictive models and analytical systems that improve operational efficiency and reporting accuracy. 
 Adept at collaborating across technical and non-technical teams to identify trends, optimize processes, and communicate insights clearly. 

@@ -50,13 +50,13 @@
                 <div class="about-text">
                     <h2>About Me</h2>
                     <p>
-                        I am a passionate <strong>software developer</strong> and <strong>hardware engineer</strong> with a deep understanding of the intersection between code and physical systems[...]
+                        I am a passionate <strong>software developer</strong> and <strong>hardware engineer</strong> with a deep understanding of the intersection between code and physical systems[...[...]
                     </p>
                     <p>
-                        With a strong foundation in <strong>programming languages</strong> like Python, C++, and Java, as well as experience in <strong>embedded systems</strong> and <strong>microc[...]
+                        With a strong foundation in <strong>programming languages</strong> like Python, C++, and Java, as well as experience in <strong>embedded systems</strong> and <strong>microc[...[...]
                     </p>
                     <p>
-                        Driven by curiosity and a commitment to staying ahead of industry trends, I am constantly learning new tools and technologies to remain at the forefront of innovation. Whet[...]
+                        Driven by curiosity and a commitment to staying ahead of industry trends, I am constantly learning new tools and technologies to remain at the forefront of innovation. Whet[...[...]
                     </p>
                 </div>
             </div>
@@ -69,14 +69,14 @@
                 <img src="images/project1.jpg" alt="Project 1">
                 <h3><a href="https://example.com/smart-home" target="_blank">Smart Home Automation System</a></h3>
                 <p>
-                    Developed a comprehensive smart home automation system using IoT technology. The system allows users to control lights, appliances, and security systems remotely via a mobile a[...]
+                    Developed a comprehensive smart home automation system using IoT technology. The system allows users to control lights, appliances, and security systems remotely via a mobile a[...[...]
                 </p>
             </div>
             <div class="project">
                 <img src="images/project2.jpg" alt="Project 2">
                 <h3><a href="https://example.com/inventory" target="_blank">Inventory Management Software</a></h3>
                 <p>
-                    Built an inventory management system for small businesses to track products, manage stock levels, and generate sales reports. The software was built with Python and a SQL datab[...]
+                    Built an inventory management system for small businesses to track products, manage stock levels, and generate sales reports. The software was built with Python and a SQL datab[...[...]
                 </p>
             </div>
             <div class="project">
@@ -135,7 +135,7 @@
         <p>If you'd like to collaborate or have any inquiries, feel free to reach out through the form below or connect via social media.</p>
 
     <div class="contact-container">
-        <form action="#" method="POST" class="contact-form">
+        <form action="https://formspree.io/f/xvgzwbzl" method="POST" class="contact-form">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
 
@@ -184,5 +184,13 @@
             </a>
         </div>
     </footer>
+
+    <script>
+        // Handle form submission
+        document.querySelector('.contact-form').addEventListener('submit', function(e) {
+            // Formspree will handle the submission
+            // You can add additional client-side validation here if needed
+        });
+    </script>
 </body>
 </html>
